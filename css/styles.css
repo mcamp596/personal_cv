@@ -1,0 +1,29 @@
+body {
+  background-color: #C9CCD5;
+  max-width: 960px;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #14145b;
+background-image: url(https://images.pexels.com/photos/1054222/pexels-photo-1054222.jpeg?cs=srgb&dl=pexels-stephan-seeber-1054222.jpg&fm=jpg);
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+
+}
+
+hr {
+  border-color: #14145b;
+  border-style: none;
+  border-width: 5px;
+  width: 3%;
+  border-top-style: dotted;
+}
+
+h1 {
+  color: #2f4f4f;
+  text-shadow: 2px 2px #14145b;
+}
+
+h3 {
+  color: #14145b;
+}
